@@ -1,0 +1,138 @@
+2024-05-12 02:53:40 [ERROR]: Error occured:  path is not defined
+2024-05-12 02:55:30 [INFO]: Registration Successful
+2024-05-12 02:57:29 [ERROR]: Please upload image smaller than 1MB
+2024-05-12 02:57:30 [INFO]: Registration Successful
+2024-05-12 02:58:53 [INFO]: Registration Successful
+2024-05-12 02:59:23 [INFO]: Registration Successful
+2024-05-12 03:02:50 [ERROR]: Invalid User Credentials!!!
+2024-05-12 03:05:27 [INFO]: Login Successful
+2024-05-12 03:45:54 [ERROR]: Error creating blog:  userId is not defined
+2024-05-12 03:46:26 [ERROR]: Error creating blog:  userId is not defined
+2024-05-12 03:47:04 [ERROR]: Error creating blog:  Blog validation failed: reading_time: Cast to Number failed for value "Promise { 0 }" (type Promise) at path "reading_time"
+2024-05-12 03:50:04 [INFO]: Post created successfully
+2024-05-12 04:01:37 [ERROR]: Error creating blog:  Blog validation failed: reading_time: Cast to Number failed for value "Promise { 0 }" (type Promise) at path "reading_time"
+2024-05-12 04:03:45 [ERROR]: Error creating blog:  Blog validation failed: reading_time: Cast to Number failed for value "NaN" (type number) at path "reading_time"
+2024-05-12 04:07:01 [INFO]: Post created successfully
+2024-05-12 04:08:11 [INFO]: Post created successfully
+2024-05-12 04:10:27 [INFO]: Post created successfully
+2024-05-12 04:28:07 [INFO]: Post created successfully
+2024-05-12 04:30:38 [INFO]: Post created successfully
+2024-05-12 04:34:58 [INFO]: Logout Successful
+2024-05-12 04:57:54 [INFO]: Login Successful
+2024-05-12 11:23:50 [INFO]: Login Successful
+2024-05-12 11:40:31 [INFO]: Login Successful
+2024-05-12 11:44:04 [INFO]: Login Successful
+2024-05-12 11:46:13 [INFO]: Login Successful
+2024-05-12 11:46:36 [INFO]: Login Successful
+2024-05-12 11:46:40 [INFO]: Login Successful
+2024-05-12 11:46:42 [INFO]: Login Successful
+2024-05-12 11:46:51 [INFO]: Login Successful
+2024-05-12 11:46:55 [INFO]: Login Successful
+2024-05-12 11:50:22 [INFO]: Login Successful
+2024-05-12 11:56:05 [INFO]: Login Successful
+2024-05-12 11:59:07 [INFO]: Login Successful
+2024-05-12 16:23:14 [ERROR]: Error fetching posts:  Blog.paginate is not a function
+2024-05-12 16:30:12 [ERROR]: Error fetching posts:  User is not defined
+2024-05-12 16:39:40 [ERROR]: Error fetching posts:  User is not defined
+2024-05-12 16:43:16 [ERROR]: Error fetching posts:  User is not defined
+2024-05-12 17:00:45 [INFO]: All posts successfully fetched
+2024-05-12 17:04:04 [INFO]: Login Successful
+2024-05-12 17:04:41 [ERROR]: Error fetching my post:  getUserId is not defined
+2024-05-12 17:21:49 [ERROR]: Error fetching my post:  Cast to ObjectId failed for value "Bearer" (type string) at path "_id" for model "Blog"
+2024-05-12 17:26:03 [ERROR]: Error fetching my post:  Cast to ObjectId failed for value "Bearer" (type string) at path "_id" for model "Blog"
+2024-05-12 17:26:35 [ERROR]: Error fetching my post:  Cast to ObjectId failed for value "Bearer" (type string) at path "_id" for model "Blog"
+2024-05-12 17:39:37 [ERROR]: Error fetching my post:  res is not defined
+2024-05-12 17:56:02 [INFO]: My posts successfully fetched
+2024-05-12 17:56:53 [INFO]: My posts successfully fetched
+2024-05-12 18:02:01 [INFO]: Post successfully fetched
+2024-05-12 18:02:07 [INFO]: Post successfully fetched
+2024-05-12 18:02:37 [INFO]: Post successfully fetched
+2024-05-12 18:03:06 [INFO]: Post successfully fetched
+2024-05-12 18:03:09 [INFO]: Post successfully fetched
+2024-05-12 18:03:12 [INFO]: Post successfully fetched
+2024-05-12 18:11:56 [INFO]: Post deleted successfully
+2024-05-12 18:13:30 [INFO]: Post updated successfully
+2024-05-12 18:13:41 [INFO]: Post updated successfully
+2024-05-12 18:14:25 [INFO]: Post updated successfully
+2024-05-12 18:14:57 [INFO]: Post updated successfully
+2024-05-12 18:15:52 [INFO]: Post updated successfully
+2024-05-12 18:16:05 [INFO]: Post updated successfully
+2024-05-12 18:39:51 [ERROR]: Error occured:  Can't use $options
+2024-05-12 18:41:40 [ERROR]: Error occurred:  Can't use $regex
+2024-05-12 18:44:25 [ERROR]: Error occurred:  Cast to ObjectId failed for value "andre" (type string) at path "author" for model "Blog"
+2024-05-12 18:48:26 [INFO]: Searched result retrieved: 
+2024-05-12 18:48:35 [INFO]: Searched result retrieved: 
+2024-05-12 18:48:59 [INFO]: Searched result retrieved: 
+2024-05-12 18:49:13 [INFO]: Searched result retrieved: 
+2024-05-12 18:51:53 [INFO]: Searched result retrieved: 
+2024-05-12 18:52:10 [INFO]: Searched result retrieved: 
+2024-05-12 18:52:31 [INFO]: Searched result retrieved: 
+2024-05-12 18:52:37 [INFO]: Searched result retrieved: 
+2024-05-12 18:54:11 [INFO]: Searched result retrieved: 
+2024-05-12 18:54:52 [INFO]: Searched result retrieved: 
+2024-05-12 19:38:12 [INFO]: Login Successful
+2024-05-12 19:42:10 [INFO]: Login Successful
+2024-05-12 19:42:47 [INFO]: Login Successful
+2024-05-12 19:43:10 [INFO]: Login Successful
+2024-05-12 19:44:51 [INFO]: Post created successfully
+2024-05-12 19:45:10 [INFO]: All posts successfully fetched
+2024-05-12 19:46:13 [INFO]: Post created successfully
+2024-05-12 19:48:31 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1Mzk3MTEsImV4cCI6MTcxNTU0MzMxMX0.BYJSy1LhIwgTYM9EX6yoWMLZZQoqrQ_Xok5umXrTxSc
+2024-05-12 19:48:31 [INFO]: Login Successful
+2024-05-12 20:08:05 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDA4ODUsImV4cCI6MTcxNTU0NDQ4NX0.E1SZL4PIHt6UicgR3nLzRF10Gh8IHGkAUK4q_7r37qc
+2024-05-12 20:08:05 [INFO]: Login Successful
+2024-05-12 20:15:16 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDA4ODUsImV4cCI6MTcxNTU0NDQ4NX0.E1SZL4PIHt6UicgR3nLzRF10Gh8IHGkAUK4q_7r37qc
+2024-05-12 20:16:38 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDA4ODUsImV4cCI6MTcxNTU0NDQ4NX0.E1SZL4PIHt6UicgR3nLzRF10Gh8IHGkAUK4q_7r37qc
+2024-05-12 20:19:41 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDA4ODUsImV4cCI6MTcxNTU0NDQ4NX0.E1SZL4PIHt6UicgR3nLzRF10Gh8IHGkAUK4q_7r37qc
+2024-05-12 20:21:43 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDA4ODUsImV4cCI6MTcxNTU0NDQ4NX0.E1SZL4PIHt6UicgR3nLzRF10Gh8IHGkAUK4q_7r37qc
+2024-05-12 20:23:44 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDE4MjQsImV4cCI6MTcxNTU0NTQyNH0.JqpX85hjYhBWhZ-6KCbY1wsV9DSDDVvkcwNv2qf0r2g
+2024-05-12 20:23:44 [INFO]: Login Successful
+2024-05-12 20:24:12 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDE4MjQsImV4cCI6MTcxNTU0NTQyNH0.JqpX85hjYhBWhZ-6KCbY1wsV9DSDDVvkcwNv2qf0r2g
+2024-05-12 20:24:19 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDE4MjQsImV4cCI6MTcxNTU0NTQyNH0.JqpX85hjYhBWhZ-6KCbY1wsV9DSDDVvkcwNv2qf0r2g
+2024-05-12 20:28:19 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDE4MjQsImV4cCI6MTcxNTU0NTQyNH0.JqpX85hjYhBWhZ-6KCbY1wsV9DSDDVvkcwNv2qf0r2g
+2024-05-12 20:29:10 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDE4MjQsImV4cCI6MTcxNTU0NTQyNH0.JqpX85hjYhBWhZ-6KCbY1wsV9DSDDVvkcwNv2qf0r2g
+2024-05-12 20:30:17 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDE4MjQsImV4cCI6MTcxNTU0NTQyNH0.JqpX85hjYhBWhZ-6KCbY1wsV9DSDDVvkcwNv2qf0r2g
+2024-05-12 20:35:27 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDE4MjQsImV4cCI6MTcxNTU0NTQyNH0.JqpX85hjYhBWhZ-6KCbY1wsV9DSDDVvkcwNv2qf0r2g
+2024-05-12 20:36:16 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDE4MjQsImV4cCI6MTcxNTU0NTQyNH0.JqpX85hjYhBWhZ-6KCbY1wsV9DSDDVvkcwNv2qf0r2g
+2024-05-12 20:37:06 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDI2MjYsImV4cCI6MTcxNTU0NjIyNn0.pqS6j--Z7UxDGcjwrCe6qXtMOPobJZXzb7n8XGOWv5w
+2024-05-12 20:37:06 [INFO]: Login Successful
+2024-05-12 20:37:25 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDI2MjYsImV4cCI6MTcxNTU0NjIyNn0.pqS6j--Z7UxDGcjwrCe6qXtMOPobJZXzb7n8XGOWv5w
+2024-05-12 20:38:40 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDI2MjYsImV4cCI6MTcxNTU0NjIyNn0.pqS6j--Z7UxDGcjwrCe6qXtMOPobJZXzb7n8XGOWv5w
+2024-05-12 20:39:02 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDI2MjYsImV4cCI6MTcxNTU0NjIyNn0.pqS6j--Z7UxDGcjwrCe6qXtMOPobJZXzb7n8XGOWv5w
+2024-05-12 20:41:24 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDI2MjYsImV4cCI6MTcxNTU0NjIyNn0.pqS6j--Z7UxDGcjwrCe6qXtMOPobJZXzb7n8XGOWv5w
+2024-05-12 20:41:24 [INFO]: kittisolo@gmail.com
+2024-05-12 20:42:54 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDI2MjYsImV4cCI6MTcxNTU0NjIyNn0.pqS6j--Z7UxDGcjwrCe6qXtMOPobJZXzb7n8XGOWv5w
+2024-05-12 20:42:54 [INFO]: 6640220a9f13fb5f699a5f33
+2024-05-12 20:43:14 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDI2MjYsImV4cCI6MTcxNTU0NjIyNn0.pqS6j--Z7UxDGcjwrCe6qXtMOPobJZXzb7n8XGOWv5w
+2024-05-12 20:43:14 [INFO]: 6640220a9f13fb5f699a5f33
+2024-05-12 20:43:17 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1NDI2MjYsImV4cCI6MTcxNTU0NjIyNn0.pqS6j--Z7UxDGcjwrCe6qXtMOPobJZXzb7n8XGOWv5w
+2024-05-12 20:43:17 [INFO]: 6640220a9f13fb5f699a5f33
+2024-05-13 11:48:52 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1OTczMzIsImV4cCI6MTcxNTYwMDkzMn0.7eOHEzCATdDfLJVVQJWt47Tt6YcJ7GLYCxTycSGH5cA
+2024-05-13 11:48:52 [INFO]: Login Successful
+2024-05-13 12:02:54 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU1OTgxNzQsImV4cCI6MTcxNTYwMTc3NH0.fhbHhKv6dVZfOj3xXRql0cy8tp-7cwiwM94EaFfEcjg
+2024-05-13 12:02:54 [INFO]: Login Successful
+2024-05-13 12:05:12 [INFO]: Post created successfully
+2024-05-13 12:36:24 [ERROR]: Error creating blog:  Cannot read properties of undefined (reading 'match')
+2024-05-13 14:36:52 [INFO]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjQwMjIwYTlmMTNmYjVmNjk5YTVmMzMiLCJlbWFpbCI6ImtpdHRpc29sb0BnbWFpbC5jb20iLCJpYXQiOjE3MTU2MDc0MTIsImV4cCI6MTcxNTYxMTAxMn0.T-Ccm0B-DmjpxEpMpGXpNxyAuwCKRw6eRUOhoeAFtig
+2024-05-13 14:36:52 [INFO]: Login Successful
+2024-05-13 14:38:58 [INFO]: Post successfully fetched
+2024-05-13 14:45:05 [INFO]: Post updated successfully
+2024-05-13 14:45:41 [INFO]: Post updated successfully
+2024-05-13 15:10:30 [ERROR]: Post was not be updated:  Plan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: Blog-DB.blogs index: title_1 dup key: { title: "wahala" }
+2024-05-13 15:11:08 [INFO]: Post updated successfully
+2024-05-13 15:13:07 [INFO]: Post updated successfully
+2024-05-13 15:13:24 [INFO]: Post updated successfully
+2024-05-13 15:20:17 [INFO]: Post deleted successfully
+2024-05-13 15:30:49 [INFO]: All posts successfully fetched
+2024-05-13 15:42:56 [INFO]: Login Successful
+2024-05-13 15:43:10 [INFO]: User posts successfully fetched
+2024-05-13 15:44:30 [INFO]: User posts successfully fetched
+2024-05-13 15:44:37 [INFO]: User posts successfully fetched
+2024-05-13 15:45:42 [INFO]: User posts successfully fetched
+2024-05-13 15:46:32 [INFO]: Login Successful
+2024-05-13 15:46:44 [INFO]: User posts successfully fetched
+2024-05-13 15:53:03 [INFO]: Logout Successful
+2024-05-13 15:53:08 [INFO]: User posts successfully fetched
+2024-05-13 15:53:28 [INFO]: Logout Successful
+2024-05-13 15:58:11 [INFO]: Logout Successful
+2024-05-13 15:58:26 [INFO]: User posts successfully fetched
