@@ -15,6 +15,7 @@
 - Delete Blog
 - Search Blog
 - Middleware
+- Entity Relationship Diagram (ERD)
  
 ## Introduction
 This project involves creating a robust blogging API that allows users to interact with blogs. The API supports functionalities such as user registration and authentication, creating and managing blog posts, retrieving blog posts with various filters and sorting options.
@@ -280,7 +281,7 @@ http://localhost:8000
 }
 ```
 ### Delete Blog
-> Endpoint: DELETE https://threemtt-blog-api-1.onrender.com/api/v1/blog/delete-blog/:id
+> Endpoint: **DELETE** https://threemtt-blog-api-1.onrender.com/api/v1/blog/delete-blog/:id
 - Deletes a blog post by its ID.
 
 ### Response:
@@ -306,7 +307,53 @@ http://localhost:8000
     }
 }
 ```
-  
+### Search Blog
+> Endpoint: GET https://threemtt-blog-api-1.onrender.com/api/v1/blog//search-blog?tags=mongodb
+- Searches for blog posts by author, title, or tags.
+
+### Response:
+- Success: 200 OK
+```json
+ {
+   "result": [
+     {
+      "title": "This is a new title",
+      "description": "This is lorem",
+      "author": "6640220a9f13fb5f699a5f33",
+      "state": "published",
+      "read_count": 1,
+      "reading_time": 2,
+      "tags": [
+	"expressjs",
+	"mongodb"
+      ],
+      "body": " There are many variations of passages of Lorem Ipsum available.",
+      "timestamp": "2024-05-17T03:44:40.84Z",
+      "_id": "6646d2a82dd0f18c8185d867",
+      "__v": 0
+    }
+]
+}
+```
+
+## Middlewares
+### createUserValidationMW
+> Validates the user registration request. Ensures that the required fields (firstname, lastname, email, and password) are provided and valid.
+
+### authenticateUser
+> Authenticates the user by verifying the JWT token. Ensures that only authenticated users can access protected routes, such as the add-blog, edit-blog and logout routes.
+
+### authorizePermissions
+> Ensures that only users with authorized permissions can perform actions, such as updating or deleting a blog post.
+
+### createValidationBlogMW
+> Validates the blog creation request using JOI package, and ensures that the required fields are provided and valid.
+
+### editValidationBlogMW
+> Validates the blog update request using JOI package, and makes sure all the  provided fields and valid.
+
+## Entity Relationship Diagram (ERD)
+![ERD](https://github.com/kittisolomon/3MTT-Blog-API/assets/40053238/e55e3d41-66b8-47f5-86ad-5304071287fe)
 
 
 
