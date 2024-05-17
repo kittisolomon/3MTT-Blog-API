@@ -18,11 +18,8 @@ const userSchema = new mongoose.Schema({
     password: {
         type: String,
         required: true
-    },
-    avatar_path: {
-        type: String,
-        default: null
     }
+   
 });
 
 userSchema.methods.comparePassword = async function (userPassword) {

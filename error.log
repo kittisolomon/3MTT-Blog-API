@@ -21,3 +21,58 @@
 2024-05-12 18:44:25 [ERROR]: Error occurred:  Cast to ObjectId failed for value "andre" (type string) at path "author" for model "Blog"
 2024-05-13 12:36:24 [ERROR]: Error creating blog:  Cannot read properties of undefined (reading 'match')
 2024-05-13 15:10:30 [ERROR]: Post was not be updated:  Plan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: Blog-DB.blogs index: title_1 dup key: { title: "wahala" }
+2024-05-17 17:04:34 [ERROR]: dre@gmail.com Already Exist!!!
+2024-05-17 17:41:20 [ERROR]: No File Uploaded
+2024-05-17 17:41:20 [ERROR]: Error occured:  Cannot read properties of undefined (reading 'image')
+2024-05-17 17:41:21 [ERROR]: No File Uploaded
+2024-05-17 17:41:21 [ERROR]: Error occured:  Cannot read properties of undefined (reading 'image')
+2024-05-17 17:47:34 [ERROR]: No File Uploaded
+2024-05-17 17:47:34 [ERROR]: Error occured:  Cannot read properties of undefined (reading 'image')
+2024-05-17 17:47:34 [ERROR]: No File Uploaded
+2024-05-17 17:47:34 [ERROR]: Error occured:  Cannot read properties of undefined (reading 'image')
+2024-05-17 17:50:31 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 17:57:54 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 17:57:55 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:02:07 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:02:09 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:03:58 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:04:00 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:05:40 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:05:40 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:07:04 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:07:04 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:09:54 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:09:54 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:13:17 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:13:18 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:15:43 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:15:44 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:18:54 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:59:05 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 18:59:06 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 19:02:51 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 19:02:52 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 19:02:54 [ERROR]: Invalid User Credentials!!!
+2024-05-17 19:05:21 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 19:05:24 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 19:05:25 [ERROR]: Invalid User Credentials!!!
+2024-05-17 19:18:09 [ERROR]: Error occured:  Operation `users.findOne()` buffering timed out after 10000ms
+2024-05-17 19:18:13 [ERROR]: Error occured:  Operation `users.findOne()` buffering timed out after 10000ms
+2024-05-17 19:18:16 [ERROR]: Invalid User Credentials!!!
+2024-05-17 19:20:01 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 19:20:02 [ERROR]: riseam@gmail.com Already Exist!!!
+2024-05-17 19:20:03 [ERROR]: Invalid User Credentials!!!
+2024-05-17 19:28:52 [ERROR]: Error occured:  E11000 duplicate key error collection: Blog-DB.users index: email_1 dup key: { email: "riseam@gmail.com" }
+2024-05-17 19:28:54 [ERROR]: Invalid User Credentials!!!
+2024-05-17 19:31:35 [ERROR]: test@gmail.com Already Exist!!!
+2024-05-17 19:31:36 [ERROR]: test@gmail.com Already Exist!!!
+2024-05-17 19:31:37 [ERROR]: Invalid User Credentials!!!
+2024-05-17 19:31:37 [ERROR]: Invalid User Credentials!!!
+2024-05-17 23:25:25 [ERROR]: test@gmail.com Already Exist!!!
+2024-05-17 23:25:26 [ERROR]: test@gmail.com Already Exist!!!
+2024-05-17 23:25:27 [ERROR]: Invalid User Credentials!!!
+2024-05-17 23:25:28 [ERROR]: Invalid User Credentials!!!
+2024-05-17 23:27:28 [ERROR]: test@gmail.com Already Exist!!!
+2024-05-17 23:27:28 [ERROR]: test@gmail.com Already Exist!!!
+2024-05-17 23:27:29 [ERROR]: Invalid User Credentials!!!
+2024-05-17 23:27:30 [ERROR]: Invalid User Credentials!!!

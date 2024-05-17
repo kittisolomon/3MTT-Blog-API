@@ -14,7 +14,7 @@
 - Update Blog
 - Delete Blog
 - Search Blog
-- Middleware
+- Middlewares
 - Entity Relationship Diagram (ERD)
  
 ## Introduction

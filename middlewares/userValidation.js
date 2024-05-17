@@ -12,10 +12,7 @@ const userSchema = Joi.object({
     email: Joi.string()
     .email({ minDomainSegments: 2, tlds: { allow: ['com', 'net'] } }) 
     .required(),
-    password: Joi.string().required(),
-    avatar_path: Joi.string()
-    .allow(null)
-    .optional()
+    password: Joi.string().required()
 });
 
 async function createUserValidationMW(req, res, next) {
