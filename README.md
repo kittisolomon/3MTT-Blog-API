@@ -26,9 +26,10 @@ This project involves creating a robust blogging API that allows users to intera
 https://github.com/kittisolomon/3MTT-Blog-API.git
 ```
 ### 2. Install depencies
+```bash
 cd navigate-to-project-directory
 npm install
-
+```
 ### 3. Create a `.env` file in the root directory and add the following environment variables:
 ```bash
 CONNECT_MONGODB_URL=XXXXXXXXXX
@@ -52,8 +53,7 @@ http://localhost:8000
   "firstname": "John",
   "lastname": "Doe",
   "email": "john.doe@example.com",
-  "password": "yourpassword",
-  "avatar_path": "path_to_file"
+  "password": "yourpassword"
  }
 ```
 ### Response Body:
@@ -72,10 +72,8 @@ http://localhost:8000
   }
   }
 ```
-
 ### User Login
 > Endpoint: **POST** `https://threemtt-blog-api-1.onrender.com/api/v1/auth/login`
-
 
 ### Request Body:
 ```json
@@ -84,7 +82,6 @@ http://localhost:8000
   "password": "yourpassword"
  }
 ```
-
 ### Response:
 - Success: 200 Ok
   
@@ -353,7 +350,7 @@ http://localhost:8000
 > Validates the blog update request using JOI package, and makes sure all the  provided fields and valid.
 
 ## Entity Relationship Diagram (ERD)
-![ERD](https://github.com/kittisolomon/3MTT-Blog-API/assets/40053238/c63f2306-1882-446a-8a53-4e555c7c8b9b)
+![ERD](https://github.com/kittisolomon/3MTT-Blog-API/assets/40053238/4eb1e535-096e-4ddd-a309-68972aeb15e7)
 
 
 
