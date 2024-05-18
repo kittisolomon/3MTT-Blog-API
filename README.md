@@ -351,7 +351,7 @@ http://localhost:8000
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD ](./assets/ERD.PNG)
+![ERD ](assets/ERD.PNG)
 
 
 
