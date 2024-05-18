@@ -350,8 +350,8 @@ http://localhost:8000
 > Validates the blog update request using JOI package, and makes sure all the  provided fields and valid.
 
 ## Entity Relationship Diagram (ERD)
+![ERD](https://github.com/kittisolomon/3MTT-Blog-API/assets/40053238/b12b243e-de5c-493d-bd30-ac82717f0842)
 
-![ERD ](assets/ERD.PNG)
 
 
 
