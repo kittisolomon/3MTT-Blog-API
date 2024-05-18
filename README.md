@@ -219,7 +219,7 @@ http://localhost:8000
 }
 ```
 ### View Single Blog
-> Endpoint: **GET** https://threemtt-blog-api-1.onrender.com/api/v1/blog/single-blog/:id
+> Endpoint: **GET** `https://threemtt-blog-api-1.onrender.com/api/v1/blog/single-blog/:id`
 - Fetches a single blog post by its ID.
 ### Response:
 - Success: 200 OK
@@ -278,7 +278,7 @@ http://localhost:8000
 }
 ```
 ### Delete Blog
-> Endpoint: **DELETE** https://threemtt-blog-api-1.onrender.com/api/v1/blog/delete-blog/:id
+> Endpoint: **DELETE** `https://threemtt-blog-api-1.onrender.com/api/v1/blog/delete-blog/:id`
 - Deletes a blog post by its ID.
 
 ### Response:
@@ -305,7 +305,7 @@ http://localhost:8000
 }
 ```
 ### Search Blog
-> Endpoint: GET https://threemtt-blog-api-1.onrender.com/api/v1/blog//search-blog?tags=mongodb
+> Endpoint: GET `https://threemtt-blog-api-1.onrender.com/api/v1/blog//search-blog?tags=mongodb`
 - Searches for blog posts by author, title, or tags.
 
 ### Response:
